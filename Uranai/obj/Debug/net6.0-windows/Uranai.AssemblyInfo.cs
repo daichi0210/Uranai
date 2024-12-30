@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Uranai")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ea9d78809f08026a7ac3814385a5686031a4a912")]
 [assembly: System.Reflection.AssemblyProductAttribute("Uranai")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Uranai")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

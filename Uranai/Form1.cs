@@ -1,8 +1,8 @@
 namespace Uranai
 {
-    public partial class Form1 : Form
+    public partial class FormUranai : Form
     {
-        public Form1()
+        public FormUranai()
         {
             InitializeComponent();
         }

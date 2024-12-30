@@ -5,6 +5,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{E477406A-4B8A-4551-B146-D360BEC62173}|Uranai\\Uranai.csproj|d:\\dev\\windows\\src\\repos\\uranai\\uranai\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{E477406A-4B8A-4551-B146-D360BEC62173}|Uranai\\Uranai.csproj|solutionrelative:uranai\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E477406A-4B8A-4551-B146-D360BEC62173}|Uranai\\Uranai.csproj|d:\\dev\\windows\\src\\repos\\uranai\\uranai\\uranai.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{E477406A-4B8A-4551-B146-D360BEC62173}|Uranai\\Uranai.csproj|solutionrelative:uranai\\uranai.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,8 +18,20 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Uranai",
+              "DocumentMoniker": "D:\\dev\\windows\\src\\repos\\Uranai\\Uranai\\Uranai.csproj",
+              "RelativeDocumentMoniker": "Uranai\\Uranai.csproj",
+              "ToolTip": "D:\\dev\\windows\\src\\repos\\Uranai\\Uranai\\Uranai.csproj",
+              "RelativeToolTip": "Uranai\\Uranai.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-30T14:38:50.004Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
