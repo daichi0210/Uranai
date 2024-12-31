@@ -60,10 +60,11 @@
             buttonUranaiStart.TabIndex = 2;
             buttonUranaiStart.Text = "占う";
             buttonUranaiStart.UseVisualStyleBackColor = true;
+            buttonUranaiStart.Click += buttonUranaiStart_Click;
             // 
             // pictureBoxResult
             // 
-            pictureBoxResult.Anchor = AnchorStyles.Bottom | AnchorStyles.Left | AnchorStyles.Right;
+            pictureBoxResult.Anchor = AnchorStyles.Top | AnchorStyles.Bottom | AnchorStyles.Left | AnchorStyles.Right;
             pictureBoxResult.Image = Properties.Resources.Title;
             pictureBoxResult.Location = new Point(12, 68);
             pictureBoxResult.Name = "pictureBoxResult";
@@ -74,6 +75,7 @@
             // 
             // textResult
             // 
+            textResult.Anchor = AnchorStyles.Bottom | AnchorStyles.Left | AnchorStyles.Right;
             textResult.Location = new Point(12, 174);
             textResult.Multiline = true;
             textResult.Name = "textResult";

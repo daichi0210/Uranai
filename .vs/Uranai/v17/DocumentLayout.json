@@ -3,12 +3,16 @@
   "WorkspaceRootPath": "D:\\dev\\windows\\src\\repos\\Uranai\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E477406A-4B8A-4551-B146-D360BEC62173}|Uranai\\Uranai.csproj|d:\\dev\\windows\\src\\repos\\uranai\\uranai\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{E477406A-4B8A-4551-B146-D360BEC62173}|Uranai\\Uranai.csproj|D:\\dev\\windows\\src\\repos\\Uranai\\uranai\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{E477406A-4B8A-4551-B146-D360BEC62173}|Uranai\\Uranai.csproj|solutionrelative:uranai\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E477406A-4B8A-4551-B146-D360BEC62173}|Uranai\\Uranai.csproj|d:\\dev\\windows\\src\\repos\\uranai\\uranai\\uranai.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
-      "RelativeMoniker": "D:0:0:{E477406A-4B8A-4551-B146-D360BEC62173}|Uranai\\Uranai.csproj|solutionrelative:uranai\\uranai.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+      "AbsoluteMoniker": "D:0:0:{E477406A-4B8A-4551-B146-D360BEC62173}|Uranai\\Uranai.csproj|d:\\dev\\windows\\src\\repos\\uranai\\uranai\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E477406A-4B8A-4551-B146-D360BEC62173}|Uranai\\Uranai.csproj|solutionrelative:uranai\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E477406A-4B8A-4551-B146-D360BEC62173}|Uranai\\Uranai.csproj|d:\\dev\\windows\\src\\repos\\uranai\\uranai\\properties\\resources.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{E477406A-4B8A-4551-B146-D360BEC62173}|Uranai\\Uranai.csproj|solutionrelative:uranai\\properties\\resources.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,18 +22,32 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Uranai",
-              "DocumentMoniker": "D:\\dev\\windows\\src\\repos\\Uranai\\Uranai\\Uranai.csproj",
-              "RelativeDocumentMoniker": "Uranai\\Uranai.csproj",
-              "ToolTip": "D:\\dev\\windows\\src\\repos\\Uranai\\Uranai\\Uranai.csproj",
-              "RelativeToolTip": "Uranai\\Uranai.csproj",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-12-30T14:38:50.004Z",
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\dev\\windows\\src\\repos\\Uranai\\Uranai\\Form1.cs",
+              "RelativeDocumentMoniker": "Uranai\\Form1.cs",
+              "ToolTip": "D:\\dev\\windows\\src\\repos\\Uranai\\Uranai\\Form1.cs",
+              "RelativeToolTip": "Uranai\\Form1.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAAwCIAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-31T03:37:24.864Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Resources.resx",
+              "DocumentMoniker": "D:\\dev\\windows\\src\\repos\\Uranai\\Uranai\\Properties\\Resources.resx",
+              "RelativeDocumentMoniker": "Uranai\\Properties\\Resources.resx",
+              "ToolTip": "D:\\dev\\windows\\src\\repos\\Uranai\\Uranai\\Properties\\Resources.resx",
+              "RelativeToolTip": "Uranai\\Properties\\Resources.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2024-12-31T03:50:11.384Z",
               "EditorCaption": ""
             },
             {
